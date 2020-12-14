@@ -25,3 +25,9 @@ You must have these dependencies:
 Make sure you update the 'credentials.py' file with your proper username and password before running.
 
 Search keywords are assigned by default; however, the keywords can be manually changed by going to 'webstoremanager.py' and changing the array in line 119.
+
+## Contributing
+
+This was a script I made to help me refresh the tons of items I put on the shop and then turned into a bigger project than that. 
+
+Please message me before many any pull requests or contributing. Thanks!
