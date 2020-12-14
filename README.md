@@ -22,4 +22,4 @@ You must have these dependencies:
 
 Make sure you update the 'credentials.py' file with your proper username and password before running.
 
-Search keywords are assigned by default; however, the keywords can be manually changed by going to 'depopmanager.py' and changing the array in line *****.
+Search keywords are assigned by default; however, the keywords can be manually changed by going to 'webstoremanager.py' and changing the array in line 119.
