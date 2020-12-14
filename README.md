@@ -1,14 +1,14 @@
 # StoreManager
 
-StoreManager is a python script that auto-refreshes items on a user's Depop account and then goes into an outreach part where it auto-likes items searched out of a randomized keyword set. Can like up to 750 posts a day.
+StoreManager is a python script that auto-refreshes items on a user's D3p0p account and then goes into an outreach part where it auto-interacts with items searched out of a randomized keyword set. Can interact with up to 750 posts a day.
 
-This script is meant to be self-running. This means that a lot of the assumptions and parameters have already been set. If you would like to make adjustments to the run, please see "Usage".
+This script is meant to be self-running. This means that a lot of the assumptions and parameters have already been set. If you would like to change up the keyword set, please see "Usage".
 
 ## Installation
 
 Download the zip.
 Extract to Desktop.
-Run through the batch file. (I have used this with a task scheduler that opens the batch file)
+Run with the batch file (store_manager_run.py). (I have used this with a task scheduler that opens the batch file)
 
 ## Dependent Libraries
 
