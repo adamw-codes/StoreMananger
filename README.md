@@ -1,4 +1,4 @@
-# StoreManager
+# WebStoreManager
 
 StoreManager is a python script that auto-refreshes items on a user's D3p0p account and then goes into an outreach part where it auto-interacts with items searched out of a randomized keyword set. Can interact with up to 750 posts a day.
 
