@@ -8,7 +8,9 @@ This script is meant to be self-running. This means that a lot of the assumption
 
 Download the zip.
 Extract to Desktop.
-Run with the batch file (store_manager_run.py). (I have used this with a task scheduler that opens the batch file)
+Set up batch file with file location of python.exe and file location of webstoremanager.py.
+Make sure credentials.py and webstoremanager.py are in the same folder.
+Run with batch file.
 
 ## Dependent Libraries
 
