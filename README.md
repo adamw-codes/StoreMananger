@@ -30,4 +30,4 @@ Search keywords are assigned by default; however, the keywords can be manually c
 
 This was a script I made to help me refresh the tons of items I put on the shop and then turned into a bigger project than that. 
 
-Please message me before many any pull requests or contributing. Thanks!
+Please message me before many any pull requests or contributing. Thanks <3
